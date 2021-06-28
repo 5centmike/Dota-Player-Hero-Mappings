@@ -1,2 +1,2 @@
 # Dota-Player-Hero-Mappings
-Using professional player hero choices to map similarities between heroes and players.
+Using hero pick rates of teams and players to explore the relationships between regional metas and hero roles.
